@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/edape-homepage/static/css/main.073c9b0a.css",
-    "main.js": "/edape-homepage/static/js/main.6aa5f628.js",
+    "main.css": "/edape-homepage/static/css/main.e6c13ad2.css",
+    "main.js": "/edape-homepage/static/js/main.ba695a3f.js",
     "static/js/787.03a7cde6.chunk.js": "/edape-homepage/static/js/787.03a7cde6.chunk.js",
-    "static/media/logo.svg": "/edape-homepage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/edape-homepage/index.html",
-    "main.073c9b0a.css.map": "/edape-homepage/static/css/main.073c9b0a.css.map",
-    "main.6aa5f628.js.map": "/edape-homepage/static/js/main.6aa5f628.js.map",
+    "main.e6c13ad2.css.map": "/edape-homepage/static/css/main.e6c13ad2.css.map",
+    "main.ba695a3f.js.map": "/edape-homepage/static/js/main.ba695a3f.js.map",
     "787.03a7cde6.chunk.js.map": "/edape-homepage/static/js/787.03a7cde6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6aa5f628.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ba695a3f.js"
   ]
 }
