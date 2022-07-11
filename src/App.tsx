@@ -5,7 +5,7 @@ import { MoonIcon, SunIcon } from '@chakra-ui/icons';
 const App: React.FC = () => {
   const { colorMode, toggleColorMode } = useColorMode()
   return (
-    <Box maxWidth='960px' as='div' bg='nord1'>
+    <Box bg={'red'} as='div'>
       <IconButton
         icon={colorMode === "light" ? <SunIcon /> : <MoonIcon />}
         variant='outline'
