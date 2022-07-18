@@ -21,6 +21,11 @@ export const ButtonStyle: ComponentStyleConfig = {
         height: '50px',
         transition: 'all 500ms ease-in-out',
       }
+    }),
+    outline: (props) => ({
+
+      bg: mode('nord7', 'nord10')(props),
+      color: mode('nord0', 'nord6')(props),
     })
   },
   // default values for 'size', 'variant' and 'colorScheme'
