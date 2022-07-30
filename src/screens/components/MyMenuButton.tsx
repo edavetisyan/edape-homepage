@@ -6,8 +6,9 @@ import React from "react"
 class MyMenuButton extends React.Component {
   render() {
     return (
-      <Menu isLazy>
+      <Menu isLazy >
         <MenuButton
+          display={{md:'none', lg: 'none', xl: 'none'}}
           as={IconButton}
           aria-label='Options'
           icon={<HamburgerIcon />}

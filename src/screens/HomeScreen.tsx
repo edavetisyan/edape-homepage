@@ -1,13 +1,12 @@
 import React from "react";
 import {
-  Box,
+  Box, Text,
 } from '@chakra-ui/react'
-import MyMenuButton from './components/MyMenuButton'
 class HomeScreen extends React.Component {
   render() {
     return (
       <Box>
-        <MyMenuButton />
+        <Text>sdsdd</Text>
       </Box>
     )
   }
