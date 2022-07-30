@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/edape-homepage/static/css/main.e6c13ad2.css",
-    "main.js": "/edape-homepage/static/js/main.4ea4b0e8.js",
+    "main.js": "/edape-homepage/static/js/main.27e95c5e.js",
     "static/js/787.03a7cde6.chunk.js": "/edape-homepage/static/js/787.03a7cde6.chunk.js",
     "index.html": "/edape-homepage/index.html",
     "main.e6c13ad2.css.map": "/edape-homepage/static/css/main.e6c13ad2.css.map",
-    "main.4ea4b0e8.js.map": "/edape-homepage/static/js/main.4ea4b0e8.js.map",
+    "main.27e95c5e.js.map": "/edape-homepage/static/js/main.27e95c5e.js.map",
     "787.03a7cde6.chunk.js.map": "/edape-homepage/static/js/787.03a7cde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4ea4b0e8.js"
+    "static/js/main.27e95c5e.js"
   ]
 }
